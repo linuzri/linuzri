@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @linuzri
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python programming
-- 💞️ I’m looking to collaborate on translations
+- 👀 I’m interested in Python, Linux, Bitcoin & Networking!
+- 🌱 I’m currently learning Python programming
+- 💞️ I’m looking to collaborate with communities
 - 📫 How to reach me linuzri@gmail.com
 
 <!---
