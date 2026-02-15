@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @linuzri
-- 👀 I’m interested in Bitcoin, Python, Linux & Networking!
-- 🌱 I’m currently learning Python programming
-- 💞️ I’m looking to collaborate with FOSS communities
-- 📫 How to reach me linuzri@gmail.com
+# Hey, I'm Nazri 👋
 
-<!---
-linuzri/linuzri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## What I'm Building
+
+🤖 **Automated Trading Bots** — ML-powered bots trading BTCUSD, XAUUSD & EURUSD on MetaTrader 5. Ensemble ML (Random Forest + XGBoost + LightGBM), auto-retrain pipeline, and a live cloud dashboard.
+
+🔮 **Prediction Market Bot** — Rust-based bot for Polymarket with 4 automated strategies: arbitrage scanning, multi-outcome arbitrage, resolved-market sniping, and hybrid take-profit. Risk-free focus.
+
+📊 **Trading Bot HQ** — Real-time dashboard (Vercel + Supabase) with Sharpe ratio, drawdown tracking, equity curves, trade history, and Polymarket portfolio monitoring.
+
+## Tech Stack
+
+`Python` `Rust` `MetaTrader 5` `scikit-learn` `XGBoost` `LightGBM` `Supabase` `Vercel` `Telegram API` `Polygon (Polymarket)`
+
+## Currently
+
+- 🔧 Building risk-free prediction market strategies
+- 📈 Running 3 ML trading bots on demo (MT5)
+- 🧠 Training ensemble ML models for market prediction
+- ⚡ Automating everything with cron jobs, PM2, and an AI assistant
+
+## Links
+
+- 📫 linuzri@gmail.com
+- 🐦 [@nymanon](https://t.me/nymanon) on Telegram
