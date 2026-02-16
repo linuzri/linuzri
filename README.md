@@ -21,5 +21,7 @@
 
 ## Links
 
+- 📊 [Trading Bot HQ](https://trade-bot-hq.vercel.app/) — Live dashboard
+- 💼 [LinkedIn](https://www.linkedin.com/in/nazri-hussain-79a8421aa/)
 - 📫 linuzri@gmail.com
-- 🐦 [@nymanon](https://t.me/nymanon) on Telegram
+- 💬 [@nymanon](https://t.me/nymanon) on Telegram
