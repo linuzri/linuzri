@@ -23,7 +23,7 @@
 ## Links
 
 - 📊 [Trading Bot HQ](https://trade-bot-hq.vercel.app/) — Live dashboard
-- 📡 [MQL5 Signal](https://www.mql5.com/en/signals/2359964) — Copy my trades ($30/mo)
+- 📡 [MQL5 Signal](https://www.mql5.com/en/signals/2359964)
 - 💼 [LinkedIn](https://www.linkedin.com/in/nazri-hussain-79a8421aa/)
 - 📧 linuzri@gmail.com
 - 💬 [@nymanon](https://t.me/nymanon) on Telegram
